@@ -1,0 +1,1 @@
+let newMessage = "Same here !"
